@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INTELLIGENT STOCK MANAGEMENT SYSTEM WITH AI - APEXSTOCK™ INDIA EDITION
 **Enterprise-Grade Stock Management & ERP System for Indian Businesses**  
 *Currency: Indian Rupees (₹) | Compliance: Indian GST Act (CGST / SGST / IGST) | Target: Manufacturing, Wholesale, Retail*
@@ -168,3 +169,7 @@ Detailed technical and operator documentation is included in the root repository
 - **[ADMIN_GUIDE.md](file:///c:/Users/muthu/Desktop/PT/ADMIN_GUIDE.md)**: Security, 2FA, RBAC permissions matrix, API keys, Celery, and backup automation.
 - **[GST_COMPLIANCE_GUIDE.md](file:///c:/Users/muthu/Desktop/PT/GST_COMPLIANCE_GUIDE.md)**: Statutory guide to CGST/SGST/IGST calculation, HSN directory, and e-Way bills.
 - **[API_DOCUMENTATION.md](file:///c:/Users/muthu/Desktop/PT/API_DOCUMENTATION.md)**: Complete RESTful API schema, parameters, and example JSON payloads.
+=======
+# stock-management-system
+Stock Management System Project
+>>>>>>> fdf2fd9de0cb00e806ed46ed66f3f18f92f46915
